@@ -2,7 +2,7 @@
 
 -cosa importante : tenere d’occhio che sia .net 6,dato che è LTS(supporto lungo termine)<br>
 -Aggiungi proprio nome al titolo per riconoscimento immediato da chi apre il file.<br>
-
+[result](https://github.com/lucaferee/WPFThreads/blob/main/images/Immagine%201.png?raw=true)
 ## Codice per creare righe colonne e 2 bottoni <br>
 ```
 <Grid>
