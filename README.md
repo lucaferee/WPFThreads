@@ -86,8 +86,18 @@ semaforo.signal();<br>
 una volta finito aggiorniamo i contatori
 
 ![result](https://github.com/lucaferee/WPFThreads/blob/main/images/Screenshot%202023-04-16%20002925.png?raw=true)<br>
-
-
+![result](https://github.com/lucaferee/WPFThreads/blob/main/images/Screenshot%202023-04-16%20002934.png?raw=true)<br>
+![result](https://github.com/lucaferee/WPFThreads/blob/main/images/Screenshot%202023-04-16%20002943.png?raw=true)<br>
+![result](https://github.com/lucaferee/WPFThreads/blob/main/images/Screenshot%202023-04-16%20002951.png?raw=true)<br>
+![result](https://github.com/lucaferee/WPFThreads/blob/main/images/Screenshot%202023-04-16%20003001.png?raw=true)<br>
+![result](https://github.com/lucaferee/WPFThreads/blob/main/images/Screenshot%202023-04-16%20003012.png?raw=true)<br>
+![result](https://github.com/lucaferee/WPFThreads/blob/main/images/Screenshot%202023-04-16%20003022.png?raw=true)<br>
+![result](https://github.com/lucaferee/WPFThreads/blob/main/images/Screenshot%202023-04-16%20003029.png?raw=true)<br>
+![result](https://github.com/lucaferee/WPFThreads/blob/main/images/Screenshot%202023-04-16%20003041.png?raw=true)<br>
+![result](https://github.com/lucaferee/WPFThreads/blob/main/images/Screenshot%202023-04-16%20003050.png?raw=true)<br>
+![result](https://github.com/lucaferee/WPFThreads/blob/main/images/Screenshot%202023-04-16%20003101.png?raw=true)<br>
+![result](https://github.com/lucaferee/WPFThreads/blob/main/images/Screenshot%202023-04-16%20003111.png?raw=true)<br>
+![result](https://github.com/lucaferee/WPFThreads/blob/main/images/Screenshot%202023-04-16%20003122.png?raw=true)<br>
 
 
 
